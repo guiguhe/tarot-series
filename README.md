@@ -18,3 +18,8 @@
 background-image: url('https://cdn.jsdelivr.net/gh/guiguhe/tarot-series@main/%E5%A4%A7%E9%98%BF%E5%8D%A1%E7%BA%B3/%E6%84%9A%E4%BA%BA.png');
 ```
 
+
+## 分册清单
+
+- `链接清单.md` — 全部 59 张
+- `小阿卡纳链接清单.md` — 小阿卡纳 36 张（按塔罗顺序）
